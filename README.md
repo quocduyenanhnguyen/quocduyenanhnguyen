@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-####Welcome to my GitHub profile. My career interests are Business Analytics/Data Analytics. I enjoy working with data and I enjoy taking lessons on LinkedIn Learning to hone my technical and soft skills. It is my passion to discover patterns and meanings in data, and then communicate the results and deliver valuable insights to my stakeholders. I enjoy connecting people with data, and bridging the gap between messy data and decision-making process. 
+Welcome to my GitHub profile. My career interests are Business Analytics/Data Analytics. I enjoy working with data and I enjoy taking lessons on LinkedIn Learning to hone my technical and soft skills. It is my passion to discover patterns and meanings in data, and then communicate the results and deliver valuable insights to my stakeholders. I enjoy connecting people with data, and bridging the gap between messy data and decision-making process. 
 
 # My hobbies 
 
