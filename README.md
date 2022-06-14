@@ -14,4 +14,4 @@ Welcome to my GitHub profile. My career interests are Business Analytics/Data An
 
 😸 I have a passion for attaining the state of nirvana! 
 
-😸 My dream goal is to travel the world and buy my own beach house to build a welcoming, lovely garden before I reach 30! 
+😸 My dream goal is to travel the world and buy my own beach house to build a welcoming, lovely garden in the near future 
