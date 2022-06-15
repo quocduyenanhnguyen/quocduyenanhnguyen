@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-Welcome to my GitHub profile. My career interests are Business Analytics/Data Analytics. I enjoy working with data and I enjoy taking lessons on LinkedIn Learning to hone my technical and soft skills. It is my passion to discover patterns and meanings in data and figure out a way to bridge the gap between messy data and decision-making process. 
+Welcome to my GitHub profile. I am pursuing a bachelor's degree in Business Analytics at San Jose State University and I will graduate in December 2022. My career interests are Business Analytics/Data Analytics. I enjoy working with data and I enjoy taking lessons on LinkedIn Learning to hone my technical and soft skills. It is my passion to discover patterns and meanings in data and figure out a way to bridge the gap between messy data and decision-making process. 
 
 # My hobbies 
 
