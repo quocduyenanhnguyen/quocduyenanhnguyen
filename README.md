@@ -6,6 +6,8 @@ Welcome to my GitHub profile. I am pursuing a bachelor's degree in Business Anal
 
 I frequently use my GitHub website to update any projects that I am currently working on and to add new projects that I already worked on as well. Thank you for visiting my website, feel free to reach out to me (by LinkedIn, here, or my email) with any questions that you have about my projects. Stay tuned and enjoy! 
 
+My email: quocduyenanhnguyen@gmail.com
+
 # My hobbies 
 
 😸 I love adventures 
