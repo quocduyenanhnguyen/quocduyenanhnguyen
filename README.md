@@ -8,6 +8,8 @@ I frequently use my GitHub website to store school projects, any personal projec
 
 My email: quocduyenanhnguyen@gmail.com
 
+My Tableau Public profile: https://public.tableau.com/app/profile/anna.quoc.nguyen where I build dashboards and data visualizations. 
+
 # My hobbies 
 
 😸 I love adventures 
