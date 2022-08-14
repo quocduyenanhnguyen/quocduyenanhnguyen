@@ -10,14 +10,3 @@ My email: quocduyenanhnguyen@gmail.com
 
 My Tableau Public profile: https://public.tableau.com/app/profile/anna.quoc.nguyen where I build dashboards and data visualizations. 
 
-# My hobbies 
-
-😸 I love adventures 
-
-😸 I love nature and animals
-
-😸 I enjoy meeting people that come from different backgrounds and cultures, and closing the gap between us! 
-
-😸 I have a passion for attaining the state of nirvana! 
-
-😸 My dream goal is to travel the world and buy my own beach house to build a welcoming, lovely garden in the near future 
