@@ -1,4 +1,4 @@
-# Hi there. I am Anna (Quoc Duyen Anh) Nguyen! 😁 
+# Hi there. I am Anna Quoc Nguyen! 😁 
 
 # ABOUT ME
 
